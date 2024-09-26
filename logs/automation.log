@@ -1,0 +1,25 @@
+15:10:42.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:10:42.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:10:42.618 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:10:42.619 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:10:42.629 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:10:43.151 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:10:44.209 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:10:44.810 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:10:45.175 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:10:46.318 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:10:47.034 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:10:47.409 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:10:48.329 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:10:49.014 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:10:49.378 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:10:50.212 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:11:00.277 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:11:00.967 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:11:01.800 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:11:11.830 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:11:12.544 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:11:13.493 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
+15:11:14.096 [main] INFO  testCases.TC03_Login_DTT_Test - ***Starting TC03 Verifying Login_DTT_Test******
+15:11:14.499 [main] INFO  testCases.TC03_Login_DTT_Test - ***Login Page Opened for DTT******
+15:11:15.559 [main] INFO  testCases.TC03_Login_DTT_Test - ***Username & Password Entered and Clicked on Login for DTT******
